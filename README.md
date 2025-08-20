@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Inference Example
-Example of how to use the `s3bir encoder`. Make sure you have downloaded the [model](https://drive.google.com/file/d/1AdxC8h-XD9Rf29_vFUnHZ5r933INMN3r/view?usp=drive_link) before running the script.
+Example of how to use the `s3bir encoder`. Make sure you have downloaded the [model](https://drive.google.com/drive/folders/1n6Z2iNKFQLWLAFu7j9Ra2m0ixKfkobgo?usp=sharing) before running the script.
 
 When working with images, the forward pass must receive the argument `dtype='image'`, and for sketches, use `dtype='sketch'`.
 
